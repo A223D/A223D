@@ -17,13 +17,14 @@ Some of my open-source libraries are even available through the Arduino IDE
 ### 💡 Here are some ideas that I might work on in the future or might serve as inspiration for you:
 
 * Complete 7-layer OSI Model custom implementation using an ESP32 (maybe light-based physical layer?)
+* Infrared-based triangulation using Arduino
 * Inexpensive personal assistant system (using an e-paper display attached near a desk)
   * May have command line utility to add/delete to-do list items
   * May send push notifications to phone/computer
 * Cloud managed store display tags for products showing videos of products working in live-settings
   * Using LCD displays + ESP32
 * Cloud managed hospital room dislpay using e-paper technology
-* Animated icons on small black-and-white displays
+* Animated icons on small black-and-white OLED displays
   * Might use [LovyanGFX](https://github.com/lovyan03/LovyanGFX) as a base
 * AdafruitGFX port of SSD1315
   * Similar to SSD1306, but does not work...
