@@ -12,9 +12,27 @@ Some of my open-source libraries are even available through the Arduino IDE
 * [detaBaseArduinoESP32](https://github.com/A223D/detaBaseArduinoESP32) makes working with [Deta.sh](https://deta.sh) Base Instance(an online database) easier by abstracting away the networking and requests part.
 * [Adafruit_4_01_ColourEPaper](https://github.com/A223D/Adafruit_4_01_ColourEPaper) is a connector library which helps [Adafruit GFX](https://github.com/adafruit/Adafruit-GFX-Library)(one of the leading graphics libraries for low-spec hardware) connect to WaveShare's 4.01 inch colour e-paper display.
 
+---
+
+### 💡 Here are some ideas that I might work on in the future or might serve as insipiration for you:
+
+* Complete 7-layer OSI Model custom implementation using an ESP32 (maybe light-based physical layer?)
+* Inexpensive personal assistant system (using an e-paper display attached near a desk)
+  * May have command line utility to add/delete to-do list items
+  * May send push notifications to phone/computer
+* Cloud managed store display tags for products showing videos of products working in live-settings
+  * Using LCD displays + ESP32
+* Cloud managed hospital room dislpay using e-paper technology
+* Animated icons on small black-and-white displays
+  * Might use [LovyanGFX](https://github.com/lovyan03/LovyanGFX) as a base
+* AdafruitGFX port of SSD1315
+  * Similar to SSD1306, but does not work...
+
+
 ### 🔗 Let's connect if you have an interesting hardware-related idea you'd like to collaborate on something cool. You can reach me at [kushagra.goel@mail.utoronto.ca](mailto:kushagra.goel@mail.utoronto.ca) or [LinkedIn](https://www.linkedin.com/in/k-goel/)
 
 ---
+
 
 <!--
 ### 👨‍💻 I love participating in hackathons and engineering competiions. Here are some of my previous results:
