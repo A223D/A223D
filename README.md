@@ -14,7 +14,7 @@ Some of my open-source libraries are even available through the Arduino IDE
 
 ---
 
-### 💡 Here are some ideas that I might work on in the future or might serve as insipiration for you:
+### 💡 Here are some ideas that I might work on in the future or might serve as inspiration for you:
 
 * Complete 7-layer OSI Model custom implementation using an ESP32 (maybe light-based physical layer?)
 * Inexpensive personal assistant system (using an e-paper display attached near a desk)
@@ -29,7 +29,7 @@ Some of my open-source libraries are even available through the Arduino IDE
   * Similar to SSD1306, but does not work...
 
 
-### 🔗 Let's connect if you have an interesting hardware-related idea you'd like to collaborate on something cool. You can reach me at [kushagra.goel@mail.utoronto.ca](mailto:kushagra.goel@mail.utoronto.ca) or [LinkedIn](https://www.linkedin.com/in/k-goel/)
+### 🔗 Let's connect if you have an interesting hardware-related idea or if you'd like to collaborate on something cool. You can reach me at [kushagra.goel@mail.utoronto.ca](mailto:kushagra.goel@mail.utoronto.ca) or on [LinkedIn](https://www.linkedin.com/in/k-goel/)
 
 ---
 
