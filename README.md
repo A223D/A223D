@@ -1,7 +1,7 @@
 # Hi there 👋
 ### My name is Kushagra Goel, and I'm a Toronto-based developer. I generally work at the intersection of hardware and software, with a little bit of networking thrown in.
 
-### I'm a big proponent of open-source computing ideology, and have contributed to projects like Arduino. Professionaly, I'm working at Huawei's Human-Machine Interaction Lab, right here in Toronto.
+### I'm a big proponent of open-source computing ideology, and have contributed to projects like Arduino. Professionally, I'm working at Huawei's Human-Machine Interaction Lab, right here in Toronto.
 
 ---
 
@@ -23,7 +23,7 @@ Some of my open-source libraries are even available through the Arduino IDE
   * May send push notifications to phone/computer
 * Cloud managed store display tags for products showing videos of products working in live-settings
   * Using LCD displays + ESP32
-* Cloud managed hospital room dislpay using e-paper technology
+* Cloud managed hospital room display using e-paper technology
 * Animated icons on small black-and-white OLED displays
   * Might use [LovyanGFX](https://github.com/lovyan03/LovyanGFX) as a base
 * AdafruitGFX port of SSD1315
@@ -36,10 +36,10 @@ Some of my open-source libraries are even available through the Arduino IDE
 
 
 <!--
-### 👨‍💻 I love participating in hackathons and engineering competiions. Here are some of my previous results:
+### 👨‍💻 I love participating in hackathons and engineering competitions. Here are some of my previous results:
 
 #### • 1<sup>st</sup> in the Canadian Engineering Competition(National) 2022(high-efficiency energy storage device)
-#### • 2<sup>nd</sup> in the Ontario Engineering Compeition(Provincial) 2022(parcel delivery robot)
+#### • 2<sup>nd</sup> in the Ontario Engineering Competition(Provincial) 2022(parcel delivery robot)
 #### • 1<sup>st</sup> in the UofT Engineering Competition(University) 2022(game-playing robot)
 
 
@@ -57,3 +57,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
