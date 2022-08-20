@@ -24,10 +24,9 @@ Some of my open-source libraries are even available through the Arduino IDE
 * Cloud managed store display tags for products showing videos of products working in live-settings
   * Using LCD displays + ESP32
 * Cloud managed hospital room display using e-paper technology
-* Animated icons on small black-and-white OLED displays
-  * Might use [LovyanGFX](https://github.com/lovyan03/LovyanGFX) as a base
 * AdafruitGFX port of SSD1315
   * Similar to SSD1306, but does not work...
+* Basic VR using 2 small OLED screens
 
 
 ### 🔗 Let's connect if you have an interesting hardware-related idea or if you'd like to collaborate on something cool. You can reach me at [kushagra.goel@mail.utoronto.ca](mailto:kushagra.goel@mail.utoronto.ca) or on [LinkedIn](https://www.linkedin.com/in/k-goel/)
