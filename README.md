@@ -21,6 +21,8 @@ Some of my open-source libraries are even available through the Arduino IDE
 * Inexpensive personal assistant system (using an e-paper display attached near a desk)
   * May have command line utility to add/delete to-do list items
   * May send push notifications to phone/computer
+* Persistent HTTP/S connections with the ESP32/Computer, that reconnect when disconnected for any reason.
+  * Ability to send/queue push notifications in a similar fashion to GCM/FCM. This is related to personal assistant system. Notifications might be sent to the notifications server or to other registered clients.
 * Cloud managed store display tags for products showing videos of products working in live-settings
   * Using LCD displays + ESP32
 * Cloud managed hospital room display using e-paper technology
