@@ -3,7 +3,6 @@
 </p>
 <h6 align="center">Animation taken from <a href="https://lordicon.com/">https://lordicon.com/</a> and processed using the <a href="https://github.com/A223D/oledAnimationsESP-IDF">ESP32 OLED Animations Project</a></h6>
 <br>
-<br>
 <h1 align="center">Hi there 👋</h1>
 
 ### My name is Kushagra Goel, and I'm a Toronto-based developer. I generally work at the intersection of hardware and software, with a little bit of networking thrown in.
