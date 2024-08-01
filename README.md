@@ -7,7 +7,7 @@
 
 ### My name is Kushagra Goel, and I'm a Mississauga-based developer. I generally work at the intersection of hardware and software, with a little bit of networking thrown in.
 
-### I'm a big proponent of open-source computing ideology, and have contributed to projects like Arduino. Professionally, I'm working currently working Synopsys.
+### I'm a big proponent of open-source computing ideology, and have contributed to projects like Arduino. Professionally, I'm working currently working at Synopsys.
 
 ---
 
